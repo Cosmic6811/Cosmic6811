@@ -10,6 +10,7 @@ Pronouns are he/him.
 $ high cat
 ```
 
+My Profiles: 
 - [Replit](https://replit.com/@CosmicBear)
 - [Discord](https://discord.com/users/811782724960256031/)
 - [Social Rumbles](https://socialrumbles.com/@Cosmic6811)
