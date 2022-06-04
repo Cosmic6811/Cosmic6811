@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there!
+I'm Cosmic, a teenage web developer! 
+There are 2 things to know about me.
+1. I'm not very active on github. 
+2. I'm part of the Replit community. 
 
+Pronouns are he/him. 
 <!--
 **Cosmic6811/Cosmic6811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
