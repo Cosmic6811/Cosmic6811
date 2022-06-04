@@ -3,6 +3,7 @@ I'm Cosmic, a teenage web developer!
 There are 2 things to know about me.
 1. I'm not very active on github. 
 2. I'm part of the Replit community. 
+3. I'm gonna make a new logo. 
 
 Pronouns are he/him. 
 <!--
