@@ -6,21 +6,11 @@ There are 2 things to know about me.
 3. I'm gonna make a new logo. 
 
 Pronouns are he/him. 
-<!--
-**Cosmic6811/Cosmic6811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-```ShellSession
+```
 $ high cat
 ```
+
+- [Replit](https://replit.com/@CosmicBear)
+- [Discord](https://discord.com/users/811782724960256031/)
+- [Social Rumbles](https://socialrumbles.com/@Cosmic6811)
 
