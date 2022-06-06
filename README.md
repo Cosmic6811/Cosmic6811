@@ -15,5 +15,5 @@ My Profiles:
 - [Discord](https://discord.com/users/811782724960256031/)
 - [Social Rumbles](https://socialrumbles.com/@Cosmic6811)
 
-![Profile views](https://gpvc.arturio.dev/[Cosmic6811])
+![Profile views](https://gpvc.arturio.dev/Cosmic6811)
 
