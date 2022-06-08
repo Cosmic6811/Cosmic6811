@@ -7,7 +7,7 @@ There are 2 things to know about me.
 
 Pronouns are he/him. 
 ```
-$ high cat
+$ cat info.txt
 ```
 
 My Profiles: 
