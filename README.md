@@ -5,7 +5,7 @@ There are 2 things to know about me.
 2. I'm part of the Replit community. 
 3. I'm gonna make a new logo. 
 
-You should totally join my discord server (discord.gg/9aYEb7fj6Y)
+You should totally join my discord server (https://discord.gg/9aYEb7fj6Y)
 Pronouns are he/him. 
 ```
 $ cat info.txt
