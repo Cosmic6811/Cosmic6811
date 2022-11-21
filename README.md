@@ -4,7 +4,7 @@ My Discord server: (https://discord.gg/9aYEb7fj6Y)
 
 
 
-[![](https://skillicons.dev/icons?i=py,flask,html,css,ai,discord,figma,godot,graphql,md&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,flask,html,css,ai,discord,figma,godot,graphql,md,vscode&theme=dark)](https://skillicons.dev)
 
 Pronouns are he/him. 
 My Profiles: 
